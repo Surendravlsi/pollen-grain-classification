@@ -75,7 +75,7 @@ Install via `requirements.txt`, but key packages include:
 - `Pillow`
 
 ## 👩‍🔬 Developed By
-YAKASIRI JAHNAVI
-SATHIGARI SURENDRA
-SAGARLA MANOHAR
-SAI RUPA
+YAKASIRI JAHNAVI ,
+SATHIGARI SURENDRA ,
+SAGARLA MANOHAR ,
+SAI RUPA ,
