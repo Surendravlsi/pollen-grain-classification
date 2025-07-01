@@ -41,7 +41,7 @@ You can expand this dataset with more real pollen grain images for better accura
 
 1. **Clone this repository**:
    
-   git clone https://github.com/YAKASIRIJAHNAVI/pollen-grain-separation.git
+   git clone https://github.com/Surendravlsi/pollen-grain-classification.git
    cd pollen-grain-separation
    
 
